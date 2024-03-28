@@ -1,2 +1,2 @@
 # web-dev
-infobyte intern
+Oasis infobyte internship 
